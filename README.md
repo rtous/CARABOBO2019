@@ -30,6 +30,7 @@ The waveforms containg the P-arrivals of the earthquakes can be found in the "ms
 
 If you find this repository useful for your research, please cite the original publication:
 
+'''
 @article{Tous2020,
     author = {R. Tous and L. Alvarado and B. Otero and L. Cruz and O. Rojas},
     title = {Deep Neural Networks for Earthquake Detection and Source Region Estimation in North Central Venezuela},
@@ -39,3 +40,4 @@ If you find this repository useful for your research, please cite the original p
     volume = {?},
     year = {2020}
 }
+'''
