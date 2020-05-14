@@ -8,16 +8,6 @@ This repository contains the CARABOBO19 dataset, consisting of three-channel con
 
  The data (both the files with the waveforms and the metadata) comes from [SEISAN](https://www.geosig.com/files/GS_SEISAN_9_0_1.pdf), a seismic analysis software suite.
 
-
-
-### Waveforms (.mseed files)
-
-The waveforms containg the P-arrivals of the earthquakes can be found in the "mseed" folder:
-
-* Each .mseed file contains three channel waveforms in miniSEED format and sampled at 100Hz.
-* Each .mseed file contains waveforms from just one station.
-
-
 ### Metadata (catalog)
 
 The analyst-labeled P-wave arrivals related to the 949 earthquakes can be found in different formats:
@@ -27,6 +17,14 @@ The analyst-labeled P-wave arrivals related to the 949 earthquakes can be found 
 * Raw SEISAN files (original data also in Nordic format)
 
 Just pick one of the three alternatives as they contain the same information. 
+
+
+### Waveforms (.mseed files)
+
+The waveforms containg the P-arrivals of the earthquakes can be found in the "mseed" folder:
+
+* Each .mseed file contains three channel waveforms in miniSEED format and sampled at 100Hz.
+* Each .mseed file contains waveforms from just one station.
 
 ## Acknowledgements
 
