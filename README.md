@@ -6,7 +6,7 @@ This repository contains the CARABOBO19 dataset, consisting of three-channel con
 
  ## Files
 
- The data (both the files with the waveforms and the metadata) comes from (https://www.geosig.com/files/GS_SEISAN_9_0_1.pdf)[SEISAN], a seismic analysis software suite.
+ The data (both the files with the waveforms and the metadata) comes from [SEISAN](https://www.geosig.com/files/GS_SEISAN_9_0_1.pdf), a seismic analysis software suite.
 
 ### Metadata (catalog)
 
@@ -30,14 +30,13 @@ The waveforms containg the P-arrivals of the earthquakes can be found in the "ms
 
 If you find this repository useful for your research, please cite the original publication:
 
-'''
-@article{Tous2020,
-    author = {R. Tous and L. Alvarado and B. Otero and L. Cruz and O. Rojas},
-    title = {Deep Neural Networks for Earthquake Detection and Source Region Estimation in North Central Venezuela},
-    journal = {Bulletin of the Seismological Society of America},
-    number = {?},
-    pages = {?--?},
-    volume = {?},
-    year = {2020}
-}
-'''
+
+	@article{Tous2020,
+	    author = {R. Tous and L. Alvarado and B. Otero and L. Cruz and O. Rojas},
+	    title = {Deep Neural Networks for Earthquake Detection and Source Region Estimation in North Central Venezuela},
+	    journal = {Bulletin of the Seismological Society of America},
+	    number = {?},
+	    pages = {?--?},
+	    volume = {?},
+	    year = {2020}
+	}
