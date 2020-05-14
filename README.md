@@ -18,7 +18,7 @@ The waveforms containg the P-arrivals of the earthquakes can be found in the "ms
 * Each .mseed file contains waveforms from just one station.
 
 
-### Waveforms (catalog)
+### Metadata (catalog)
 
 The analyst-labeled P-wave arrivals related to the 949 earthquakes can be found in different formats:
 
