@@ -2,7 +2,9 @@
 
 ## Description
 
-This repository contains the CARABOBO19 dataset, consisting of three-channel continuous data recorded by the broadband stations of the Venezuelan Foundation of Seismological Research (FUNVISIS) in the region of 9.5 to 11.5&deg;N and 67.0 to 69.0&deg;W during the time period from April 2018 to April 2019. During this period, 949 earthquakes were recorded in that area. A detailed description of the data can be found in the research paper mentioned in the [Acknowledgments](#Acknowledgements) section.
+This repository contains the CARABOBO19 dataset, consisting of three-channel continuous data recorded by the broadband stations of the Venezuelan Foundation of Seismological Research (FUNVISIS) in the region of 9.5 to 11.5&deg;N and 67.0 to 69.0&deg;W during the time period from April 2018 to April 2019. During this period, 949 earthquakes were recorded in that area. A detailed description of the data can be found in the research paper mentioned in the [Acknowledgments](#Acknowledgements) section. 
+
+A deep convolutional neural network, called UPC-UCV, for P-wave earthquake detection and source region estimation over this dataset can be found [here](https://github.com/rtous/deepquake).
 
 ## Files
 
