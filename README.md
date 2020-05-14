@@ -13,10 +13,11 @@ This repository contains the CARABOBO19 dataset, consisting of three-channel con
 The analyst-labeled P-wave arrivals related to the 949 earthquakes can be found in different formats:
 
 * JSON format (catalog.json)
-* Nordic format (sfiles_nordicformat directory)
+* Nordic format in several files (sfiles_nordicformat directory)
+* Nordic format in one file (arrival_times.txt)
 * Raw SEISAN files (original data also in Nordic format)
 
-Just pick one of the three alternatives as they contain the same information. 
+Just pick one of the alternatives as they contain the same information. 
 
 
 ### Waveforms (.mseed files)
