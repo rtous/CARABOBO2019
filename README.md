@@ -8,7 +8,8 @@ This repository contains the CARABOBO19 dataset, consisting of three-channel con
 
  The data (both the files with the waveforms and the metadata) comes from [SEISAN](https://www.geosig.com/files/GS_SEISAN_9_0_1.pdf), a seismic analysis software suite.
 
-### Metadata (catalog)
+
+ ### Metadata (catalog)
 
 The analyst-labeled P-wave arrivals related to the 949 earthquakes can be found in different formats:
 
